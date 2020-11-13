@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/agradecimiento-react/static/js/main.0dbb90d8.chunk.js",
+    "main.js.map": "/agradecimiento-react/static/js/main.0dbb90d8.chunk.js.map",
+    "runtime-main.js": "/agradecimiento-react/static/js/runtime-main.90921dae.js",
+    "runtime-main.js.map": "/agradecimiento-react/static/js/runtime-main.90921dae.js.map",
+    "static/js/2.59c7cda8.chunk.js": "/agradecimiento-react/static/js/2.59c7cda8.chunk.js",
+    "static/js/2.59c7cda8.chunk.js.map": "/agradecimiento-react/static/js/2.59c7cda8.chunk.js.map",
+    "index.html": "/agradecimiento-react/index.html",
+    "static/js/2.59c7cda8.chunk.js.LICENSE.txt": "/agradecimiento-react/static/js/2.59c7cda8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90921dae.js",
+    "static/js/2.59c7cda8.chunk.js",
+    "static/js/main.0dbb90d8.chunk.js"
+  ]
+}
